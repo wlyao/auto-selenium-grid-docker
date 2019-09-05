@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1567697475622" stop="1567697518509" version="1.4.23" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>tech : tech3</name>
+    <title>tech : tech3</title>
+    <test-cases>
+        <test-case start="1567697475738" stop="1567697518028" status="passed">
+            <name>test1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="lihaos-MacBook-Pro.local"/>
+                <label name="thread" value="4126@lihaos-MacBook-Pro.local.TestNG(14)"/>
+            </labels>
+        </test-case>
+        <test-case start="1567697475738" stop="1567697518028" status="passed">
+            <name>test1</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="lihaos-MacBook-Pro.local"/>
+                <label name="thread" value="4126@lihaos-MacBook-Pro.local.TestNG(14)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
