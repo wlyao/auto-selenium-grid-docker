@@ -1,0 +1,7 @@
+<suite name="tech" parallel="methods" thread-count="10">
+    <test name="tech1">
+        <classes>
+            <class name="com.auto.selenium.grid.demo.TechTest" />
+        </classes>
+    </test>
+</suite>

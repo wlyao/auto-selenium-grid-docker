@@ -1,33 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="18" passed="18">
   <reporter-output>
   </reporter-output>
-  <suite name="tech" duration-ms="45073" started-at="2019-09-05T15:31:15Z" finished-at="2019-09-05T15:32:00Z">
+  <suite name="tech" duration-ms="20374" started-at="2019-09-10T13:08:02Z" finished-at="2019-09-10T13:08:23Z">
     <groups>
     </groups>
-    <test name="tech3" duration-ms="42710" started-at="2019-09-05T15:31:15Z" finished-at="2019-09-05T15:31:58Z">
+    <test name="tech1" duration-ms="20374" started-at="2019-09-10T13:08:02Z" finished-at="2019-09-10T13:08:23Z">
       <class name="com.auto.selenium.grid.demo.TechTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.auto.selenium.grid.demo.TechTest@2af4129d]" name="test1" duration-ms="42355" started-at="2019-09-05T23:31:15Z" finished-at="2019-09-05T23:31:58Z">
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15294" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- com.auto.selenium.grid.demo.TechTest -->
-    </test> <!-- tech3 -->
-    <test name="tech1" duration-ms="44886" started-at="2019-09-05T15:31:15Z" finished-at="2019-09-05T15:32:00Z">
-      <class name="com.auto.selenium.grid.demo.TechTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.auto.selenium.grid.demo.TechTest@3901f6af]" name="test1" duration-ms="44808" started-at="2019-09-05T23:31:15Z" finished-at="2019-09-05T23:32:00Z">
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15779" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15471" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="16695" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15815" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15665" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="14948" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="14170" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="14458" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="15522" started-at="2019-09-10T21:08:02Z" data-provider="test1" finished-at="2019-09-10T21:08:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4403" started-at="2019-09-10T21:08:17Z" data-provider="test1" finished-at="2019-09-10T21:08:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4404" started-at="2019-09-10T21:08:17Z" data-provider="test1" finished-at="2019-09-10T21:08:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4425" started-at="2019-09-10T21:08:17Z" data-provider="test1" finished-at="2019-09-10T21:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4425" started-at="2019-09-10T21:08:18Z" data-provider="test1" finished-at="2019-09-10T21:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4492" started-at="2019-09-10T21:08:18Z" data-provider="test1" finished-at="2019-09-10T21:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4503" started-at="2019-09-10T21:08:18Z" data-provider="test1" finished-at="2019-09-10T21:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4471" started-at="2019-09-10T21:08:18Z" data-provider="test1" finished-at="2019-09-10T21:08:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[17]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.Integer)[pri:0, instance:com.auto.selenium.grid.demo.TechTest@7c8f9c2e]" name="test1" duration-ms="4459" started-at="2019-09-10T21:08:18Z" data-provider="test1" finished-at="2019-09-10T21:08:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[18]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
       </class> <!-- com.auto.selenium.grid.demo.TechTest -->
     </test> <!-- tech1 -->
-    <test name="tech2" duration-ms="45073" started-at="2019-09-05T15:31:15Z" finished-at="2019-09-05T15:32:00Z">
-      <class name="com.auto.selenium.grid.demo.TechTest">
-        <test-method status="PASS" signature="test1()[pri:0, instance:com.auto.selenium.grid.demo.TechTest@4d62f4c6]" name="test1" duration-ms="45003" started-at="2019-09-05T23:31:15Z" finished-at="2019-09-05T23:32:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- com.auto.selenium.grid.demo.TechTest -->
-    </test> <!-- tech2 -->
   </suite> <!-- tech -->
 </testng-results>

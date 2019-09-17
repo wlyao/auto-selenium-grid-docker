@@ -1,4 +1,4 @@
-<suite name="tech" parallel="tests" thread-count="3">
+<suite name="tech" parallel="tests" thread-count="10">
     <test name="tech1">
         <classes>
             <class name="com.auto.selenium.grid.demo.TechTest" />
